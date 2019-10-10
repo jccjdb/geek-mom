@@ -1,3 +1,4 @@
+
 @import "bootstrap";
 
 .clear {
@@ -37,6 +38,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #6E1827;
+  font-family: 'kaushan_scriptregular', cursive;
+  font-weight: bold;
 }
 
 header {
@@ -45,4 +48,14 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+ font-family: 'kaushan_scriptregular', cursive;
+ font-weight: bold;
+ font-size: 48px;
+}
+
+h2 {
+font-family: 'Shadows Into Light', cursive;
 }
