@@ -4,6 +4,8 @@
 .clear {
   clear: both;
 }
+
+
 .circle {
     font-weight: bold;
     font-style: italic;
@@ -71,4 +73,8 @@ font-family: 'Shadows Into Light', cursive;
   font-style: italic;
   text-align: right;
   font-size: 10px;
+}
+
+.logo:hover {
+  text-decoration: none;
 }
